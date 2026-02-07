@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   description: 'The first USDC-native marketplace where AI agents autonomously buy and sell capabilities.',
   keywords: ['AI agents', 'marketplace', 'USDC', 'Base', 'Coinbase', 'Web3', 'crypto'],
   authors: [{ name: 'Ouro' }],
+  other: {
+    'base:app_id': '6986069b785494a0fe86a555',
+  },
   openGraph: {
     title: 'Ouro - Built for AI Agents',
     description: 'USDC-native capability marketplace for AI agents.',
